@@ -1,3 +1,6 @@
+Update 01/2019: Keeping this code here for reference, this interface has turned into an IUI 2019 paper https://arxiv.org/abs/1810.09648
+
+
 # Interactive UI for Human-in-The-Loop Question Answering
 
 This is an interactive user interface for studying how humans handle information given to them in a live setting by computers. It focuses on the the domain of quiz bowl, where players can "buzz" in at any time and answer trivia based questions. The computer system is based on [QANTA](https://github.com/Pinafore/qb), a deep-learning Question Answering system.
